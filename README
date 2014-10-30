@@ -1,0 +1,2 @@
+customize username and partition values in install.sh file.
+edit IP to ping for checking internet connection in ping_test.sh file.
