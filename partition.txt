@@ -1,0 +1,16 @@
+o
+n
+sda1
+1024M
+EF00
+/boot
+sda2
+15G
+8300
+/
+sda3
+~G
+8300
+/home
+p
+w
